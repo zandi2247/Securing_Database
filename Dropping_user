@@ -1,0 +1,2 @@
+Create User Jenna@"%.domainname" Identified By "Fl@G6*b!";
+Drop User Jenna@"%.domainname";
