@@ -2,6 +2,5 @@
 
 
 
-
 Updating password from Admin Panel 
 
