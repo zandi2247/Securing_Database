@@ -3,7 +3,7 @@ In this project I demonstrate my knowledge of securing databases by creating a u
 
 
 
-Updating password from for "sam"  in the admin panel. Please see the code in "creating_user" 
+<b>Updating password from for "sam"  in the admin panel. Please see the code in "creating_user" 
 <img src="https://imgur.com/IGm0QdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Granting "Sam" DBA privileges 
