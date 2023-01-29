@@ -1,3 +1,7 @@
 # Securing_Databases 
 
-In this project I demonstrate my knowledge of securing databases by creating a user, giving them specific privileges,dropping a user, and creating the initial password. 
+In this project I demonstrate my knowledge of securing databases by creating a user, giving them specific privileges,dropping a user, creating the initial password, updating password from the administrator panel. 
+
+
+Updating password from Admin Panel 
+https://imgur.com/a/3hsytUv
