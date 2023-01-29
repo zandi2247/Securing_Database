@@ -4,4 +4,4 @@ In this project I demonstrate my knowledge of securing databases by creating a u
 
 
 Updating password from Admin Panel 
-https://imgur.com/a/3hsytUv
+
