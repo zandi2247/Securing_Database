@@ -1,4 +1,5 @@
-# Securing_Databases In this project I demonstrate my knowledge of securing databases by creating a user, granting them specific privileges,dropping a user, revoking privileges, creating the initial password, updating password from the administrator panel, and creating a local instance for an "app". 
+# Securing_Databases 
+In this project I demonstrate my knowledge of securing databases by creating a user, granting them specific privileges,dropping a user, revoking privileges, creating the initial password, updating password from the administrator panel, and creating a local instance for an "app". 
 
 
 
