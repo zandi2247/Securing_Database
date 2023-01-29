@@ -2,5 +2,5 @@
 
 
 
-Updating password from Admin Panel 
-
+Updating password from for "sam"  in the admin panel. Please see the code in "creating_user" 
+<img src="https://imgur.com/IGm0QdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
